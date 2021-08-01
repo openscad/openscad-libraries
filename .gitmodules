@@ -52,3 +52,22 @@
 	path = justinsdk/dotscad/v2.4
 	url = https://github.com/JustinSDK/dotSCAD
 	branch = v2.4
+[submodule "revarbat/bosl/main"]
+	path = revarbat/bosl/main
+	url = https://github.com/revarbat/BOSL
+[submodule "revarbat/bosl/v1.0.3"]
+	path = revarbat/bosl/v1.0.3
+	url = https://github.com/revarbat/BOSL
+	branch = v1.0.3
+[submodule "revarbat/bosl/v1.0.2"]
+	path = revarbat/bosl/v1.0.2
+	url = https://github.com/revarbat/BOSL
+	branch = v1.0.2
+[submodule "revarbat/bosl/v1.0.1"]
+	path = revarbat/bosl/v1.0.1
+	url = https://github.com/revarbat/BOSL
+	branch = v1.0.1
+[submodule "revarbat/bosl/v1.0"]
+	path = revarbat/bosl/v1.0
+	url = https://github.com/revarbat/BOSL
+	branch = v1.0
