@@ -71,3 +71,6 @@
 	path = revarbat/bosl/v1.0
 	url = https://github.com/revarbat/BOSL
 	branch = v1.0
+[submodule "revarbat/bosl2/main"]
+	path = revarbat/bosl2/main
+	url = https://github.com/revarbat/BOSL2
