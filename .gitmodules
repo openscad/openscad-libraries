@@ -33,3 +33,22 @@
 	path = irev-dev/round-anything/1.0.4
 	url = https://github.com/Irev-Dev/Round-Anything
 	branch = 1.0.4
+[submodule "justinsdk/dotscad/main"]
+	path = justinsdk/dotscad/main
+	url = https://github.com/JustinSDK/dotSCAD
+[submodule "justinsdk/dotscad/v3.1"]
+	path = justinsdk/dotscad/v3.1
+	url = https://github.com/JustinSDK/dotSCAD
+	branch = v3.1
+[submodule "justinsdk/dotscad/v3.0"]
+	path = justinsdk/dotscad/v3.0
+	url = https://github.com/JustinSDK/dotSCAD
+	branch = v3.0
+[submodule "justinsdk/dotscad/v2.5"]
+	path = justinsdk/dotscad/v2.5
+	url = https://github.com/JustinSDK/dotSCAD
+	branch = v2.5
+[submodule "justinsdk/dotscad/v2.4"]
+	path = justinsdk/dotscad/v2.4
+	url = https://github.com/JustinSDK/dotSCAD
+	branch = v2.4
