@@ -1,0 +1,35 @@
+[submodule "irev-dev/round-anything/main"]
+	path = irev-dev/round-anything/main
+	url = https://github.com/Irev-Dev/Round-Anything
+[submodule "rcolyer/closepoints/main"]
+	path = rcolyer/closepoints/main
+	url = https://github.com/rcolyer/closepoints
+[submodule "rcolyer/plot-function/main"]
+	path = rcolyer/plot-function/main
+	url = https://github.com/rcolyer/plot-function
+[submodule "rcolyer/smooth-prim/main"]
+	path = rcolyer/smooth-prim/main
+	url = https://github.com/rcolyer/smooth-prim
+[submodule "rcolyer/threads-scad/main"]
+	path = rcolyer/threads-scad/main
+	url = https://github.com/rcolyer/threads-scad
+[submodule "irev-dev/round-anything/1.0.0"]
+	path = irev-dev/round-anything/1.0.0
+	url = https://github.com/Irev-Dev/Round-Anything
+	branch = 1.0.0
+[submodule "irev-dev/round-anything/1.0.1"]
+	path = irev-dev/round-anything/1.0.1
+	url = https://github.com/Irev-Dev/Round-Anything
+	branch = 1.0.1
+[submodule "irev-dev/round-anything/1.0.2"]
+	path = irev-dev/round-anything/1.0.2
+	url = https://github.com/Irev-Dev/Round-Anything
+	branch = 1.0.2
+[submodule "irev-dev/round-anything/1.0.3"]
+	path = irev-dev/round-anything/1.0.3
+	url = https://github.com/Irev-Dev/Round-Anything
+	branch = 1.0.3
+[submodule "irev-dev/round-anything/1.0.4"]
+	path = irev-dev/round-anything/1.0.4
+	url = https://github.com/Irev-Dev/Round-Anything
+	branch = 1.0.4
